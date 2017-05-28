@@ -1,6 +1,6 @@
 name 'tomcatcookbook'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Myself'
+maintainer_email 'sureshbesta8147@gmail.com'
 license 'All Rights Reserved'
 description 'Installs/Configures tomcatcookbook'
 long_description 'Installs/Configures tomcatcookbook'
